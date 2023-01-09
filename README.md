@@ -20,7 +20,7 @@ The generated password will be output to the user and also stored in the `passwo
 
 ## Example
 
-```python
+```bash
 Enter the desired password length: 12
 Your generated password is: cOZa2dQIxzvb
 ```
