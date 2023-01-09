@@ -72,3 +72,9 @@ if __name__ == "__main__":
     else:
         generate_db()
     main()
+
+
+
+
+
+# program ends here 🖤
